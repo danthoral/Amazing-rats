@@ -10,8 +10,8 @@ img {
   border: 30px double lavender;
 }
 
-.p1 {
-  font-family:"Lucida Console", "Courier New", monospace;
+.h1 {
+  font: garamond;
 }
 
 .p2 {
