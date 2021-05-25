@@ -4,6 +4,9 @@
   margin-right: auto;
   width: 30%;
 }
+img {
+  border: 5px solid #555;
+}
 .p1 {
   font-family:"Lucida Console", "Courier New", monospace;
 }
