@@ -4,9 +4,12 @@
   margin-right: auto;
   width: 30%;
 }
+
 img {
-  border: 5px solid #555;
+  width: 200px;
+  border: 1px solid lavender;
 }
+
 .p1 {
   font-family:"Lucida Console", "Courier New", monospace;
 }
