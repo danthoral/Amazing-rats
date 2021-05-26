@@ -5,10 +5,14 @@
 }
 
 .flex-rat {
+     align-items:center; 
+    justify-content:center; 
     flex: 1;
     border: 5px solid pink; 
 }  
 
 .flex-child:first-rat {
+      align-items:center; 
+    justify-content:center; 
     margin-right: 20px;
 } 
