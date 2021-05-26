@@ -2,7 +2,7 @@
     display: flex;
     align-items:center; 
     justify-content:center; 
-     background-color: #f4f1d6; 
+     background-color: #FFFEF7 ; 
 }
 
 .flex-rat {
@@ -10,12 +10,12 @@
     justify-content:center; 
     flex: 1;
     border: 5px solid #ffdae0; 
-       background-color:#f4f1d6; 
+       background-color:  #FFFEF7 ; 
 }  
 
 .flex-child:first-rat {
       align-items:center; 
     justify-content:center; 
     margin-right: 20px;
-       background-color: #f4f1d6; 
+       background-color:  #FFFEF7; 
 } 
