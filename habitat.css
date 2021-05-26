@@ -4,7 +4,7 @@
 
 .flex-rat {
     flex: 1;
-    border: 5px solid #C8CFE7; 
+    border: 5px solid pink; 
 }  
 
 .flex-child:first-rat {
