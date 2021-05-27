@@ -16,6 +16,7 @@
 .flex- rat two {
       align-items:center; 
     justify-content:center; 
+     border: 5px solid #ffdae0; 
     margin-right: 20px;
        background-color:  #FFFEF7; 
 } 
