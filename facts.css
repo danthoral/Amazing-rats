@@ -1,1 +1,30 @@
+.unordered {
+	  list-style-type: square;
+	  line-height: 170%;
+	} 
+	.nested-ul {
+	  list-style-type: circle; 
+	}
+	.unordered {
+	background: #CD5C5C;
+	padding: 20px;
+	width: 30%;
+	font-family: Arial, Helvetica, sans-serif;
+	}
 
+	.unordered li {
+	background: #D288FF;
+	margin: 5px;
+	}
+	
+	.nested-ul li {
+	background: #EECCFF;
+	margin: 5px;
+	}
+	.ordered {
+	background: #FD8B00;
+	padding: 20px;
+	width: 20%;
+	font-family: 'Brush Script MT', cursive;
+	font-size: 1.3em;
+	}
