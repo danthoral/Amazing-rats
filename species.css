@@ -6,14 +6,12 @@
 }
 
 .flex-rat one {
-    
-    flex: 1;
     border: 1px solid pink; 
        background-color: #fadbde; 
 }  
 
 .flex-rat two {
-      
+       border: 1px solid pink; 
     margin-right: 20px;
        background-color: #fadbde; 
 } 
