@@ -3,3 +3,7 @@
   background-color: white; 
    
    }  
+img {
+  width: 200px;
+  border: 20px dotted white;
+}
