@@ -6,7 +6,7 @@ margin-right: auto;
 
 max-width: 50%;
 
-position:fixed;
+position:auto;
 
 }
 
@@ -34,7 +34,7 @@ cursor: pointer;
 
 white-space: nowrap;
 
-position: absolute;
+position:auto;
 
 top: 50%;
 
