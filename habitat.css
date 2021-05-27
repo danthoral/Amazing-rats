@@ -6,16 +6,12 @@
 }
 
 .flex-rat one {
-     align-items: space-evenly; 
-    justify-content:space-evenly; 
     flex: 1;
     border: 5px solid #ffdae0; 
        background-color: #FDF2E1; 
 }  
 
 .flex- rat two {
-      align-items:space-evenly; 
-    justify-content:space-evenly; 
      border: 5px solid #ffdae0; 
     margin-right: 20px;
        background-color: #FDF2E1; 
