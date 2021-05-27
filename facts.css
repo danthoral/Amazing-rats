@@ -32,12 +32,12 @@
     justify-content:center; 
     flex: 1;
     border: 5px solid #ffdae0; 
-       background-color:  #FFFEF7 ; 
+       background-color: #fadbde; 
 }  
 
 .flex-rat two {
-      align-items:center; 
-    justify-content:center; 
+      align-items:flex-end; 
+    justify-content:flex-end; 
     margin-right: 20px;
-       background-color:  #FFFEF7; 
+       background-color: #fadbde; 
 } 
