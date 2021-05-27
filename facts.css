@@ -27,7 +27,7 @@
      background-color: #FFFEF7 ; 
 }
 
-.flex-rat {
+.flex-rat one {
      align-items:center; 
     justify-content:center; 
     flex: 1;
@@ -35,7 +35,7 @@
        background-color:  #FFFEF7 ; 
 }  
 
-.flex-child:first-rat {
+.flex-rat two {
       align-items:center; 
     justify-content:center; 
     margin-right: 20px;
