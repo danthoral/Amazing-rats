@@ -8,7 +8,7 @@
 .flex-rat one {
     
     flex: 1;
-    border: none; 
+    border: 1px solid pink; 
        background-color: #fadbde; 
 }  
 
