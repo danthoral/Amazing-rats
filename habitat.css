@@ -1,7 +1,7 @@
 .flex-container {
     display: flex;
-    align-items:center; 
-    justify-content:center; 
+    align-items:space-evenly; 
+    justify-content:space-evenly; 
      background-color: #FFFEF7 ; 
 }
 
