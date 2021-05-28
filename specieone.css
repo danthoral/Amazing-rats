@@ -1,22 +1,20 @@
 
 .flex-container {
     display: flex;
-    align-items:center; 
-    justify-content:center; 
+    align-items: space-between; 
+    justify-content:space-between; 
      background-color: #FFFEF7 ; 
 }
 
 .flex-rat {
-     align-items:center; 
-    justify-content:center; 
     flex: 1;
     border: 5px solid #ffdae0; 
        background-color:  #FFFEF7 ; 
 }  
 
 .flex-child:first-rat {
-      align-items:center; 
-    justify-content:center; 
+    align-items:space-between; 
+    justify-content: space-between; 
     margin-right: 20px;
        background-color:  #FFFEF7; 
 } 
