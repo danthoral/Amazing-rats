@@ -3,6 +3,7 @@
     align-items:space-evenly; 
     justify-content: space-evenly; 
      background-color:space-evenly; 
+    border: 1px solid pink; 
 }
 
 .flex-rat one {
