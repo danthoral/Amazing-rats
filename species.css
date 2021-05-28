@@ -4,6 +4,7 @@
     justify-content: space-evenly; 
      background-color:space-evenly; 
     border: 4px solid pink; 
+    border-corner-shape: scoop; 
 }
 
 .flex-rat one {
