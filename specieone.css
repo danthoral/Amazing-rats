@@ -15,8 +15,8 @@
 }  
 
 .flex-child:first-rat {
-    align-items:space-between; 
-    justify-content: space-between; 
+    align-items:center; 
+    justify-content: center; 
     margin-right: 20px;
        background-color:  #FFFEF7; 
 } 
