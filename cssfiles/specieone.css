@@ -1,4 +1,7 @@
-  
+  body {
+	 
+	background-color: lavender;
+}
 
 .flex-container {
     display: flex;
