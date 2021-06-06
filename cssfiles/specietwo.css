@@ -1,4 +1,8 @@
- p1 {
+body {
+	 
+	background-color: lavender;
+} 
+p1 {
    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
   background-color: white; 
    
