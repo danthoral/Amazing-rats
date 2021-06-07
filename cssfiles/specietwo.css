@@ -13,17 +13,13 @@ img {
   border: 5px dashed white;
 }
 
-@media ( min-width: 600px) {
+@media ( max-width:1200px) {
 p1 {
 	font-size: 1.25 rem; 
 	}
 	
 }
-@media ( min-width: 800px) {
-p1 {
-	font-size: 1.5 rem; 
-	}
-	
-}
+
+
 © 2021 GitHub, Inc.
 
