@@ -26,6 +26,12 @@ img {
   }
 }
 
+@media (min-width: 1025px) {
+  p1 {
+    font-size: 14px;
+  }
+}
+
 
 
 © 2021 GitHub, Inc.
