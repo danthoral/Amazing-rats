@@ -13,25 +13,29 @@ img {
   border: 5px dashed white;
 }
 
-@media (max-width: 480px) {
-  p1 {
-    font-size: 24px;
-  }
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media (min-width: 600px) {
+ p1 {
+	 }
 }
 
-
-@media (max-width: 760px) {
+/* Medium devices (landscape tablets, 768px and up) */
+@media  (min-width: 768px) {
   p1 {
-    font-size: 20px;
-  }
-}
+	 }
+} 
 
-@media (min-width: 1025px) {
+/* Large devices (laptops/desktops, 992px and up) */
+@media  (min-width: 992px) {
   p1 {
-    font-size: 14px;
-  }
-}
+	 }
+} 
 
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media (min-width: 1200px) {
+ p1 {
+	 }
+}
 
 
 © 2021 GitHub, Inc.
