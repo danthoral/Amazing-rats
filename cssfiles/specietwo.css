@@ -3,7 +3,7 @@ body {
 	background-color: lavender;
 } 
 p1 {
- font-size: 1 em; 
+ font-size: 18px; 
    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
   background-color: white; 
    
@@ -13,12 +13,12 @@ img {
   border: 5px dashed white;
 }
 
-@media ( max-width:1200px) {
-p1 {
-	font-size: 1.25 rem; 
-	}
-	
+@media (max-width: 480px) {
+  p1 {
+    font-size: 24px;
+  }
 }
+
 
 
 © 2021 GitHub, Inc.
